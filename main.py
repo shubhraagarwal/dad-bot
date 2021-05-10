@@ -4,9 +4,12 @@ from discord import message
 import requests
 import json
 import random
+from dotenv import load_dotenv
+
+load_dotenv()
 
 client = discord.Client()
-TOKEN = "ODQxMDk3NjQ0Mjg1NjI0Mzcy.YJhzOQ.ENCQ9E4YDQSOY5ZYZ-0HEoGQbFY"
+# TOKEN = os.getenv("TOKEN")
 cussWords = ["lodu", "madarchod", "bhenchod", "gandu",
              "lavde", "chutiya", "chutiye", "bhosdike"]
 
@@ -38,4 +41,4 @@ async def on_message(message):
         await message.channel.send(get_quote())
     if any(word in msg for word in cussWords):
         await message.channel.send(random.choice(starter_response_to_cussWords))
-client.run(TOKEN)
+client.run(os.getenv("TOKEN"))
