@@ -11,10 +11,10 @@ load_dotenv()
 client = discord.Client()
 # TOKEN = os.getenv("TOKEN")
 cussWords = ["lodu", "madarchod", "bhenchod", "gandu",
-             "lavde", "chutiya", "chutiye", "bhosdike"]
+             "lavde", "chutiya", "chutiye", "bhosdike", "rendi", "randi", "baklund"]
 
 starter_response_to_cussWords = ["Woahh, watch your language kid",
-                                 "Bahoot jyada ni ho raha?", "Tameez se!!", "Chalo sorry bolo", "Aaj tu pitega"]
+                                 "Bahoot jyada ni ho raha?", "Tameez se!!", "Chalo sorry bolo", "Aaj tu pitega", "Gaali not allowed, this is a family friendly server"]
 
 
 def get_quote():
