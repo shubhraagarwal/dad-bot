@@ -1,7 +1,1 @@
 discord
-os
-message
-requests
-json
-random
-dotenv
