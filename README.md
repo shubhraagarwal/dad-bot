@@ -1,12 +1,11 @@
 ## Hey there!!!
 
-My name is dad bot, I am a discord bot. You can invite me to your server by <a href="https://lnkd.in/gQ5YDjz"> clicking here </a>.
-My purpose is to keep bad words out of the server and to motivate you when you're feeling low. I scold and punish the people who uses bad words.
+I'm Dad Bot, and I'm a Discord bot. By <a href="https://lnkd.in/gQ5YDjz"> clicking here </a>., you may invite me to your server. My goal is to prevent negative language off the server and to inspire you when you're down. I chastise and penalise those who use foul language. 
 
 ## Commands
 
 You can write `motivate me daddy` to get some motivational quotes. <br>
-I'm also triggered if you write hindi cuss words in the chat (it's better if I'm not triggered by this or else it's bye bye time for you) <br>
+If you use hindi cuss words in the conversation, I get upset as well. (it's better if I'm not triggered by this or else it's bye bye time for you) <br>
 More commands will be added soon.
 
 ## Installation
@@ -53,8 +52,7 @@ __Issues are valuable__
 - Pour in your ideas, they are source for contributions others can make
 - Be humble and request for any clarification needed
 - Its for the community, learn and help others
-- Make sure you're creating a new issue or asking on a particular issue to be assigned to you before you make any PR.
-
+- Before making any PR, make sure you're establishing a new issue or requesting for a specific problem to be assigned to you.
 `Thank you for creating issues!`
 
 ## Pull requests
@@ -68,8 +66,7 @@ They are the best way of getting your creative ideas into the project.
 
 You should be clear which problem you're trying to solve with your contribution.
 <br>
-Issue the problem that you have found, and the pull request shows the action you have taken to solve it.
-<br>
+Issue the problem you discovered, and the pull request shows the action you took to address it.<br>
 Always comment and clarify your intention
 <br>
 
@@ -95,4 +92,4 @@ The aim of the repository is:
 ---
 ## Contributors ✨
 
-Thanks goes to these wonderful people for contributing!
+Many thanks to these amazing folks for their contributions!
