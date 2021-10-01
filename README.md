@@ -23,7 +23,7 @@ To generate the token head over to <a href ="https://discord.com/developers/appl
 - Fork the project on GitHub
 - Clone the project
 ```
-git clone https://github.com/shubhraagarwal/Offline-Edu.git
+git clone https://github.com/shubhraagarwal/dad-bot.git
 ```
 - Make/add your changes locally
 - Add and commit your changes
