@@ -9,7 +9,10 @@ I'm Dad Bot, and I'm a Discord bot. By <a href="https://lnkd.in/gQ5YDjz"> clicki
 ## Commands
 
 You can write `motivate me daddy` to get some motivational quotes. <br>
-If you use hindi cuss words in the conversation, I get upset as well. (it's better if I'm not triggered by this or else it's bye bye time for you) <br>
+
+You can write `make me laugh daddy` to get some funny jokes.<br>
+I'm also triggered if you write hindi cuss words in the chat (it's better if I'm not triggered by this or else it's bye bye time for you) <br>
+
 More commands will be added soon.
 
 ## Installation
@@ -26,7 +29,7 @@ To generate the token head over to <a href ="https://discord.com/developers/appl
 - Fork the project on GitHub
 - Clone the project
 ```
-git clone https://github.com/shubhraagarwal/Offline-Edu.git
+git clone https://github.com/shubhraagarwal/dad-bot.git
 ```
 - Make/add your changes locally
 - Add and commit your changes
