@@ -6,6 +6,7 @@ My purpose is to keep bad words out of the server and to motivate you when you'r
 ## Commands
 
 You can write `motivate me daddy` to get some motivational quotes. <br>
+You can write `make me laugh daddy` to get some funny jokes.<br>
 I'm also triggered if you write hindi cuss words in the chat (it's better if I'm not triggered by this or else it's bye bye time for you) <br>
 More commands will be added soon.
 
