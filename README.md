@@ -2,12 +2,15 @@
 
 I'm Dad Bot, and I'm a Discord bot. By <a href="https://lnkd.in/gQ5YDjz"> clicking here </a>., you may invite me to your server. My goal is to prevent negative language off the server and to inspire you when you're down. I chastise and penalise those who use foul language. 
 
+![DAD BOT (1)](https://user-images.githubusercontent.com/53416067/135572057-ea09df92-e28e-4b13-888a-e8c8501bd52d.jpg)
+
+
+
 ## Commands
 
 You can write `motivate me daddy` to get some motivational quotes. <br>
 If you use hindi cuss words in the conversation, I get upset as well. (it's better if I'm not triggered by this or else it's bye bye time for you) <br>
 More commands will be added soon.
-![DAD BOT](https://user-images.githubusercontent.com/53416067/135571621-ea2b7660-d15a-46aa-997e-7e162c2bdaca.jpg)
 
 ## Installation
 
