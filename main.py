@@ -10,7 +10,7 @@ load_dotenv()
 client = discord.Client()
 
 cussWords = ["lodu", "madarchod", "bhenchod", "gandu",
-             "lavde", "chutiya", "chutiye", "bhosdike", "rendi", "randi", "baklund"]
+             "lavde", "chutiya", "chutiye", "bhosdike", "rendi", "randi", "baklund", "bsdk", "chu"]
 
 starter_response_to_cussWords = ["Woahh, watch your language kid",
                                  "Bahoot jyada ni ho raha?", "Tameez se!!", "Chalo sorry bolo", "Aaj tu pitega", "Gaali not allowed, this is a family friendly server"]
