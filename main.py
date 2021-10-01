@@ -7,9 +7,8 @@ import random
 from dotenv import load_dotenv
 
 load_dotenv()
-
 client = discord.Client()
-# TOKEN = os.getenv("TOKEN")
+
 cussWords = ["lodu", "madarchod", "bhenchod", "gandu",
              "lavde", "chutiya", "chutiye", "bhosdike", "rendi", "randi", "baklund"]
 
@@ -23,6 +22,11 @@ def get_quote():
     quote = json_data[0]['q']
     return(quote)
 
+def get_dadJoke():
+    response = requests.get("https://icanhazdadjoke.com/", headers={"Accept": "application/json"})
+    json_data = json.loads(response.text)
+    joke = json_data['joke']
+    return joke
 
 @client.event
 async def on_ready():
@@ -39,6 +43,8 @@ async def on_message(message):
         await message.channel.send("Jubaan sambhaal ke, varna iss server ki membership se bedahkal karr diye jaoge")
     if message.content.startswith('motivate me daddy'):
         await message.channel.send(get_quote())
+    if message.content.startswith('make me laugh daddy'):
+        await message.channel.send(get_dadJoke())
     if any(word in msg for word in cussWords):
         await message.channel.send(random.choice(starter_response_to_cussWords))
 client.run(os.getenv("TOKEN"))
