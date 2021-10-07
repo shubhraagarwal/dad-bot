@@ -28,6 +28,12 @@ def get_dadJoke():
     joke = json_data['joke']
     return joke
 
+def get_activity():
+    response = requests.get('https://www.boredapi.com/api/activity')
+    json_data = json.loads(response.text)
+    activity = json_data['activity']
+    return (activity)
+
 @client.event
 async def on_ready():
     print("We have logged in as {0.user}".format(client))
@@ -45,6 +51,9 @@ async def on_message(message):
         await message.channel.send(get_quote())
     if message.content.startswith('make me laugh daddy'):
         await message.channel.send(get_dadJoke())
+    if message.content.startswith('I am bored daddy'):
+        activity = get_activity()
+        await message.channel.send(f'Are you bored ? ...{activity}')
     if any(word in msg for word in cussWords):
         await message.channel.send(random.choice(starter_response_to_cussWords))
 client.run(os.getenv("TOKEN"))
