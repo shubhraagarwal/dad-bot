@@ -5,15 +5,12 @@ import requests
 import json
 import random
 from dotenv import load_dotenv
+from cusswords import badwords,starter_response_to_cussWords
 
 load_dotenv()
 client = discord.Client()
 
-cussWords = ["lodu", "madarchod", "bhenchod", "gandu",
-             "lavde", "chutiya", "chutiye", "bhosdike", "rendi", "randi", "baklund", "bsdk", "chu"]
 
-starter_response_to_cussWords = ["Woahh, watch your language kid",
-                                 "Bahoot jyada ni ho raha?", "Tameez se!!", "Chalo sorry bolo", "Aaj tu pitega", "Gaali not allowed, this is a family friendly server"]
 
 
 def get_quote():
@@ -54,6 +51,6 @@ async def on_message(message):
     if message.content.startswith('I am bored daddy'):
         activity = get_activity()
         await message.channel.send(f'Are you bored ? ...{activity}')
-    if any(word in msg for word in cussWords):
+    if any(word in msg for word in badwords):
         await message.channel.send(random.choice(starter_response_to_cussWords))
 client.run(os.getenv("TOKEN"))
