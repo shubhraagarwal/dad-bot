@@ -1,22 +1,24 @@
-## Hey there!!!
+## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hey there!!! 
 
-I'm Dad Bot, and I'm a Discord bot. By <a href="https://lnkd.in/gQ5YDjz"> clicking here </a>., you may invite me to your server. My goal is to prevent negative language off the server and to inspire you when you're down. I chastise and penalise those who use foul language. 
+`I'm Dad Bot, and I'm a Discord bot`. By <a href="https://lnkd.in/gQ5YDjz"> clicking here </a>., you may invite me to your server. My goal is to prevent negative language off the server and to inspire you when you're down. I chastise and penalise those who use foul language. 
 
+![DAD BOT (2)](https://mk0droplrg5q83m5xg0r.kinstacdn.com/wp-content/uploads/2020/09/discord-bots-1200x400.png)
 ![DAD BOT (1)](https://user-images.githubusercontent.com/53416067/135572057-ea09df92-e28e-4b13-888a-e8c8501bd52d.jpg)
 
 
+---
 
-## Commands
+## 🤖 How to use it ?
 
-You can write `motivate me daddy` to get some motivational quotes. <br>
+- You can write `motivate me daddy` to get some motivational quotes. <br>
+- You can write `make me laugh daddy` to get some funny jokes.<br>
+- I'm also triggered if you write hindi cuss words in the chat (it's better if I'm not triggered by this or else it's bye bye time for you) <br>
+- You can write `I am bored daddy` to get some activity to perform when you are bored.<br>
+- More commands will be added soon.
 
-You can write `make me laugh daddy` to get some funny jokes.<br>
-I'm also triggered if you write hindi cuss words in the chat (it's better if I'm not triggered by this or else it's bye bye time for you) <br>
+---
 
-You can write `I am bored daddy` to get some activity to perform when you are bored.<br>
-More commands will be added soon.
-
-## Installation
+## 🛠️ Installation
 
 `git clone` <br>
 `cd dad-bot` <br>
@@ -25,8 +27,13 @@ More commands will be added soon.
 After you've done this, you'll need to create a token and place it in a `.env` file as `TOKEN = "YOUR TOKEN HERE"` without the quotes.
 To generate the token head over to <a href ="https://discord.com/developers/applications"> Discord Developers </a> and create an application.
 
-## Contribution
-## Get Started
+---
+
+## ℹ️ Contribution
+
+---
+
+## 🏁 Get Started
 - Fork the project on GitHub
 - Clone the project
 ```
@@ -51,8 +58,11 @@ git push
 <br>
 
 We will actively look for any pending pull request(s)
-## Issues
+
 ---
+
+## ⚙️ Issues
+
 __Issues are valuable__
 - Check for existing issues or create a new one with all the changes you want to make
 - Make sure you ask the maintainers to assign you an issue if you want to work on it
@@ -63,14 +73,16 @@ __Issues are valuable__
 - Before making any PR, make sure you're establishing a new issue or requesting for a specific problem to be assigned to you.
 `Thank you for creating issues!`
 
-## Pull requests
+---
+
+## 📤 Pull requests
 They are the best way of getting your creative ideas into the project.
 
 - Make sure all your pull requests are directed to `master` branch.
 - Please mention the issue number in your PR so that it's easier for the maintainers to track it
 - Do not create spam pull requests, you will be reported
 > Before making a pull request ask yourself these
-### __Do I have an authentic intention__
+### ✔️ __Do I have an authentic intention__ ?
 
 You should be clear which problem you're trying to solve with your contribution.
 <br>
@@ -78,7 +90,7 @@ Issue the problem you discovered, and the pull request shows the action you took
 Always comment and clarify your intention
 <br>
 
-###  __Does the contribution brings the project closer to its goal__
+### ✔️  __Does the contribution brings the project closer to its goal__ ?
 The aim of the repository is: 
 
 - To improve and add features to the project to enhance usability and increase scalability.
@@ -87,7 +99,7 @@ The aim of the repository is:
 - To improve the overall UI and user experience.
 
 
-### __Does it follow the code of conduct__
+### ✔️ __Does it follow the code of conduct__ ?
 
 1. Using a consistent coding style with the project
 2. Keeping the interest of FOSS
@@ -95,9 +107,9 @@ The aim of the repository is:
 4. Being respectful of differing viewpoints and experiences
 5. Focusing on what is best for the community
 <br>
-<br>
 
 ---
-## Contributors ✨
+
+## 🤝 Contributors ✨
 
 Many thanks to these amazing folks for their contributions!
