@@ -3,7 +3,6 @@
 `I'm Dad Bot, and I'm a Discord bot`. By <a href="https://lnkd.in/gQ5YDjz"> clicking here </a>., you may invite me to your server. My goal is to prevent negative language off the server and to inspire you when you're down. I chastise and penalise those who use foul language. 
 
 ![DAD BOT (2)](https://mk0droplrg5q83m5xg0r.kinstacdn.com/wp-content/uploads/2020/09/discord-bots-1200x400.png)
-![DAD BOT (1)](https://user-images.githubusercontent.com/53416067/135572057-ea09df92-e28e-4b13-888a-e8c8501bd52d.jpg)
 
 
 ---
@@ -12,7 +11,7 @@
 
 - You can write `motivate me daddy` to get some motivational quotes. <br>
 - You can write `make me laugh daddy` to get some funny jokes.<br>
-- I'm also triggered if you write hindi cuss words in the chat (it's better if I'm not triggered by this or else it's bye bye time for you) <br>
+- I'm also triggered if you write cuss words in the chat (it's better if I'm not triggered by this or else it's bye bye time for you) <br>
 - You can write `I am bored daddy` to get some activity to perform when you are bored.<br>
 - More commands will be added soon.
 
