@@ -711,7 +711,10 @@ badwords = ['2g1c',
  'tharak',
  'tharki',
  'tu',
- 'chuda']
+ 'chuda',
+ 'Bothinike',
+ 'Bosadike',
+ 'Bsdk']
 
 
 starter_response_to_cusswords = [
